@@ -1,0 +1,65 @@
+#title {
+    background-color: #E9ECEF;
+}
+
+#banner {
+    height: 80vh;
+    background-image: url(https://www.incimages.com/uploaded_files/image/1920x1080/getty_188144335_137711.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.jumbotron {
+    margin: 20px 0px;
+}
+
+#archiment-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#cooperation {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #E9ECEF;
+    height: 100px;
+    height: auto;
+}
+
+#col__linkcollect {
+    margin-top: 50px;
+}
+
+footer h5 {
+    padding: 10px 50px;
+}
+
+footer p {
+    padding: 0px 50px;
+    width: 100%;
+}
+
+footer .row {
+    width: 100%;
+}
+
+#col-link {
+    display: flex;
+    flex-direction: column;
+}
+
+#col-link a {
+    color: black;
+}
